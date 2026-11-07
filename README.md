@@ -16,7 +16,7 @@ It is developed and used privately. It is not a public service, subscription or 
 In development. Runs locally, not publicly available.
 
 ## Website
-Project page: <!-- replace with your Cloudflare Pages URL, e.g. https://cadence.pages.dev -->
+Project page: https://cadence-3do.pages.dev
 
 ## Disclaimer
 Independent project. Not affiliated with or endorsed by TradingView or Exness.
